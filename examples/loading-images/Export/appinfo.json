@@ -1,0 +1,10 @@
+{
+	"title": "Getting Started",
+	"type": "pdk",
+	"main": "GettingStarted",
+	"id": "com.palm.tutorial.cpp.gettingstarted",
+	"icon": "icon.png",
+	"version": "1.0.0",
+	"vendor": "Palm, Inc.",
+	"requiredMemory": 20
+}
